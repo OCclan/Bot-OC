@@ -1,0 +1,16 @@
+{
+  "name": "oc",
+  "version": "0.0.1",
+  "description": "Offical OC bot",
+  "main": "bot.js",
+  "scripts": {
+    "starts": "cross-env nodomen lesson-08-Hosting/src/bot.js"
+  },
+  "author": "Beka✔",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "opusscript": "0.0.4",
+    "ytdl-core": "^0.18.2"
+  }
+}
