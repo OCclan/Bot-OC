@@ -1,6 +1,6 @@
 {
 "intsall": [
-  "^package\\.json$";
+  "^package\\.json$",
   "^\\.env$"
   ]
 },
