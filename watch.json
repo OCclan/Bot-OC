@@ -1,0 +1,19 @@
+{
+"intsall": [
+  "^package\\.json$";
+  "^\\.env$"
+  ]
+},
+"restart": {
+  "exclude": [
+    "^public/",
+    "^dist/"
+  ],
+  "include": [
+    "\\.js$",
+    "\\.json"
+]
+},
+"throttl":900000
+}
+  
